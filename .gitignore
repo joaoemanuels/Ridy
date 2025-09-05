@@ -1,0 +1,68 @@
+# ====================
+# Node / JavaScript
+# ====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-store/
+.DS_Store
+
+# ====================
+# React / Frontend
+# ====================
+build/
+dist/
+.env
+*.local
+*.log
+.cache/
+.vscode/
+
+# ====================
+# Backend / Node
+# ====================
+.env
+logs/
+*.log
+tmp/
+temp/
+coverage/
+*.pid
+*.seed
+*.sqlite
+*.sqlite3
+
+# ====================
+# Python (se caso usar)
+# ====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+*.sqlite3
+*.log
+
+# ====================
+# Sistema / Editor
+# ====================
+.DS_Store
+Thumbs.db
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+*.swp
+*.bak
+
+# ====================
+# Outros arquivos temporários
+# ====================
+*.tmp
+*.temp
+*.orig
