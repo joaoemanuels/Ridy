@@ -37,7 +37,7 @@ coverage/
 *.sqlite3
 
 # ====================
-# Python (se caso usar)
+# Python 
 # ====================
 __pycache__/
 *.py[cod]
